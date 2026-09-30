@@ -400,3 +400,6 @@ This project is [ISC](https://github.com/starship/starship/blob/main/LICENSE) li
 [ubuntu universe]: https://packages.ubuntu.com/source/plucky/starship
 [void linux packages]: https://github.com/void-linux/void-packages/tree/master/srcpkgs/starship
 [winget]: https://github.com/microsoft/winget-pkgs/tree/master/manifests/s/Starship/Starship
+
+
+(forked for carship development)
